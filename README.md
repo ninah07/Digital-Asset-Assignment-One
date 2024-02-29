@@ -1,6 +1,6 @@
 # Digital Assets - Assignment 1
 
 
-# Functionality
-This does things.
+# IT Project #1
+Contains 2 Console Games!
 
