@@ -1,2 +1,6 @@
-# Digital-Asset-Assignment-One
-Console Games!
+# Digital Assets - Assignment 1
+
+
+# Functionality
+This does things.
+
