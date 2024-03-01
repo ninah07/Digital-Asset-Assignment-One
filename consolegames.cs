@@ -72,8 +72,8 @@ public class Program
 			else 
 			{
 				Random randomChoice = new Random();
-				int computerChoice = randomChoice.Next(0, 3);
-				switch (computerChoice)
+				int player2Choice = randomChoice.Next(0, 3);
+				switch (player2Choice)
 				{
 					case 1:
 					if (playerChoice == "0")
